@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  ## Getting Started
+=======
+## Getting Started
+>>>>>>> refs/remotes/origin/master
 
 ### 1. Clone the repository
 ```bash
