@@ -1,9 +1,3 @@
-<<<<<<< HEAD
- ## Getting Started
-=======
-## Getting Started
->>>>>>> refs/remotes/origin/master
-
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/husseinibrahimdev/mypy.git
