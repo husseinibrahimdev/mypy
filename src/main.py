@@ -4,8 +4,6 @@ from utils import add, multiply, greet
 def say(word):
     print(f"{word}")
 
-for c in 'character':
-    print(c)
 
 def main():
     print("=== Python Project Starter ===")
